@@ -64,9 +64,10 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   <br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadibp&show_icons=true&locale=en&layout=compact" alt="hadibp" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadibp&show_icons=true&locale=en" alt="hadibp" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadibp&" alt="hadibp" /></p>
+<br>
