@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadibp" alt="hadibp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdul hadi" target="blank"><img src="https://img.shields.io/twitter/follow/@AbdulHa73514701?logo=twitter&style=for-the-badge" alt="abdul hadi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AbdulHa73514701" target="blank"><img src="https://img.shields.io/twitter/follow/@AbdulHa73514701?logo=twitter&style=for-the-badge" alt="abdul hadi" /></a> </p>
 
 - 🔭 I’m currently working on **techsias website**
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@hadi7653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hadi7653" height="30" width="40" /></a>
-<a href="https://twitter.com/abdul hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul hadi" height="30" width="40" /></a>
+<a href="https://twitter.com/@AbdulHa73514701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul hadi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/abdul-hadi-bp-213131208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdul-hadi-bp-213131208" height="30" width="40" /></a>
 <a href="https://fb.com/abdul hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul hadi" height="30" width="40" /></a>
 <a href="https://instagram.com/a___hadi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a___hadi__" height="30" width="40" /></a>
