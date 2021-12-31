@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **abdulhadibp@gmsil.com**
+- 📫 How to reach me **abdulhadibp@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
