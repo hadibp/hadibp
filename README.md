@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/@AbdulHa73514701" target="blank"><img src="https://img.shields.io/twitter/follow/@AbdulHa73514701?logo=twitter&style=for-the-badge" alt="abdul hadi" /></a> </p> -->
 
-- 🔭 I’m currently working on **techsias website**
-
-
 
 
 
