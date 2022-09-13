@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **techsias website**
 
-- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React**
+
+
 
 - 📫 How to reach me **abdulhadibp@gmail.com**
 
