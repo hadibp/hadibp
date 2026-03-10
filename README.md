@@ -1,4 +1,3 @@
-}
 <h1 align="center">Hi 👋 I'm Abdul Hadi BP</h1>
 <h3 align="center">Full-Stack Engineer • Flutter Developer</h3>
 
