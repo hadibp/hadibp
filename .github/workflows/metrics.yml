@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
-  workflow_dispatch:      # allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -20,33 +20,20 @@ jobs:
 
           user: hadibp
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
 
           config_timezone: Asia/Kolkata
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_limit: 8
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           plugin_stars: yes
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
-
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-
-          plugin_repositories: yes
-          plugin_repositories_featured: hadibp/hadibp
-
-          plugin_lines: yes
 
           output_action: commit
           committer_branch: main
