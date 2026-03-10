@@ -77,7 +77,7 @@ Postman • VS Code • Figma
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hadibp&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="./github-metrics.svg"/>
 
 </p>
 
