@@ -83,52 +83,6 @@ Postman • VS Code • Figma
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">Flutter UI Components</h3>
-<p align="center">
-Reusable modern Flutter widgets and UI components.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Node.js API Boilerplate</h3>
-<p align="center">
-Scalable backend starter with authentication and modular architecture.
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">Flutter Voice Notes</h3>
-<p align="center">
-Voice recording and playback integration using Flutter.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Authentication System</h3>
-<p align="center">
-JWT authentication with secure API architecture.
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 # 🌐 Connect
 
 <p align="center">
