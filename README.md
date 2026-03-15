@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulhadibp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulhadi.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhadibp@gmail.com)
-[![Ozbry](https://img.shields.io/badge/Ozbry-1A56DB?style=for-the-badge&logo=globe&logoColor=white)](https://ozbry.com)
 <img src="https://komarev.com/ghpvc/?username=hadibp&style=for-the-badge&color=blue" />
 
 </div>
