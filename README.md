@@ -14,25 +14,15 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Senior Software Engineer** based in Bengaluru with **4+ years** of experience building production-grade web, mobile, and backend systems.
-
-At **Riskcovry**, I led the modularization of a monolithic frontend codebase used by 15+ engineers — cutting build times by ~45% — and shipped a full agent training platform (LMS with video, quizzes & certification) from zero to production in two weeks.
-
-Outside of work, I'm the sole engineer behind **[Ozbry](https://ozbry.com)** — a live multi-tenant B2B SaaS platform handling ticketing, inventory, invoicing, and field technician workflows. Full stack. Full ownership.
-
-I've also co-founded two startups, trained teams, and learned that the best engineers aren't just good at writing code — they're good at making the right decisions at the right time.
-
-```
-Currently         →  Senior Software Engineer @ Riskcovry
-Building          →  Ozbry — Multi-tenant B2B SaaS
-Stack of choice   →  Node.js · React · Next.js · Flutter
-Open to           →  Senior / Staff Engineering roles in Bengaluru
-```
-
+<br/>
+ 
+<div align="center">
+ 
+> *"Code is cheap. Decisions are expensive.*
+> *I try to get both right."*
+ 
+</div>
+ 
 ---
 
 ## 🧰 Tech Stack
@@ -68,15 +58,21 @@ Open to           →  Senior / Staff Engineering roles in Bengaluru
 
 ---
 
-## 🚀 Featured Work
-
-| Project | Description | Stack | Live |
+## 🚀 Featured Projects
+ 
+<div align="center">
+ 
+| Project | Description | Stack | Link |
 |---|---|---|---|
-| **Ozbry** | Multi-tenant B2B SaaS — ticketing, inventory, invoicing & field ops | React · Node.js · Flutter · MongoDB · AWS | [ozbry.com](https://ozbry.com) |
-| **Thesaj Resort** | Resort management system + consumer-facing website | Next.js · React · Node.js · Flutter | [thesajresort.com](https://thesajresort.com) |
-
-> Most of my production work lives in private repositories. The above projects represent public-facing work I've architected and shipped independently.
-
+| **Ozbry** | Multi-tenant B2B SaaS — ticketing, inventory, invoicing & field ops | React · Node.js · Flutter · MongoDB | [ozbry.com](https://ozbry.com) |
+| **Thesaj Resort** | Resort management system & consumer website | Next.js · React · Node.js · Flutter | [thesajresort.com](https://thesajresort.com) |
+ 
+</div>
+ 
+<div align="center">
+<sub>Most of my work is in private repositories — these are the projects I can share publicly.</sub>
+</div>
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -105,6 +101,16 @@ Open to           →  Senior / Staff Engineering roles in Bengaluru
 </div>
 
 ---
+
+
+<div align="center">
+ 
+<h4>
+"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+</h4>
+ 
+</div>
+ 
 
 <div align="center">
 
