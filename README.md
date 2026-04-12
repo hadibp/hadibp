@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header&text=Abdul%20Hadi%20B.P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%94%20I%20build%20things%20that%20ship.&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header&text=Abdul%20Hadi%20B.P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer"/>
 
 </div>
 
